@@ -1,0 +1,17 @@
+C:\Development\OSRS_ToG_Worlds\bin\Debug\net6.0\OSRS_ToG_Worlds.exe
+C:\Development\OSRS_ToG_Worlds\bin\Debug\net6.0\OSRS_ToG_Worlds.deps.json
+C:\Development\OSRS_ToG_Worlds\bin\Debug\net6.0\OSRS_ToG_Worlds.runtimeconfig.json
+C:\Development\OSRS_ToG_Worlds\bin\Debug\net6.0\OSRS_ToG_Worlds.dll
+C:\Development\OSRS_ToG_Worlds\bin\Debug\net6.0\OSRS_ToG_Worlds.pdb
+C:\Development\OSRS_ToG_Worlds\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Development\OSRS_ToG_Worlds\obj\Debug\net6.0\OSRS_ToG_Worlds.csproj.AssemblyReference.cache
+C:\Development\OSRS_ToG_Worlds\obj\Debug\net6.0\OSRS_ToG_Worlds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\OSRS_ToG_Worlds\obj\Debug\net6.0\OSRS_ToG_Worlds.AssemblyInfoInputs.cache
+C:\Development\OSRS_ToG_Worlds\obj\Debug\net6.0\OSRS_ToG_Worlds.AssemblyInfo.cs
+C:\Development\OSRS_ToG_Worlds\obj\Debug\net6.0\OSRS_ToG_Worlds.csproj.CoreCompileInputs.cache
+C:\Development\OSRS_ToG_Worlds\obj\Debug\net6.0\OSRS_ToG_Worlds.csproj.CopyComplete
+C:\Development\OSRS_ToG_Worlds\obj\Debug\net6.0\OSRS_ToG_Worlds.dll
+C:\Development\OSRS_ToG_Worlds\obj\Debug\net6.0\refint\OSRS_ToG_Worlds.dll
+C:\Development\OSRS_ToG_Worlds\obj\Debug\net6.0\OSRS_ToG_Worlds.pdb
+C:\Development\OSRS_ToG_Worlds\obj\Debug\net6.0\OSRS_ToG_Worlds.genruntimeconfig.cache
+C:\Development\OSRS_ToG_Worlds\obj\Debug\net6.0\ref\OSRS_ToG_Worlds.dll

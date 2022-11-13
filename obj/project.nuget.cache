@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V7z2y/AcqgjEAz/zQp4dHa0GkHI3uoaZt4bwcf5GqIVCjQ+Q9eTdM+1Zkd/KiKFBhbacde5FDOR9CnzikixMhg==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\OSRS_ToG_Worlds\\OSRS_ToG_Worlds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zach\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
