@@ -2,7 +2,7 @@
 
 var userInput = new ConsoleKeyInfo();
 
-Repeat:
+RepeatStart:
 do
 {
     Console.Write("Press any key to look up Tears of Guthix world data.\n");
@@ -34,16 +34,21 @@ try
         Console.WriteLine("World\t\tOrder\t\tHits\n====================================");
         foreach (var w in list) { Console.WriteLine($"{w.World}\t\t{w.Order}\t\t{w.Hits}"); }
 
+        RepeatEnd:
         Console.WriteLine("\nWould you like to run the program again? (Y/N) ");
         userInput = Console.ReadKey();
         if (userInput.KeyChar == 'Y' || userInput.KeyChar == 'y')
         {
             Console.Clear();
-            goto Repeat;
+            goto RepeatStart;
+        }
+        else if (userInput.KeyChar == 'N' || userInput.KeyChar == 'n')
+        {
+            Console.WriteLine("\nApplication will now terminate.");
         }
         else
         {
-            Console.WriteLine("\nApplication will now terminate.");
+            goto RepeatEnd;
         }
     }
     else
