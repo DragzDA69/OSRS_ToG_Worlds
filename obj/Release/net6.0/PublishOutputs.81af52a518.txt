@@ -1,0 +1,6 @@
+C:\Development\Builds\OSRS_ToG_Worlds.exe
+C:\Development\Builds\OSRS_ToG_Worlds.dll
+C:\Development\Builds\OSRS_ToG_Worlds.deps.json
+C:\Development\Builds\OSRS_ToG_Worlds.runtimeconfig.json
+C:\Development\Builds\OSRS_ToG_Worlds.pdb
+C:\Development\Builds\Newtonsoft.Json.dll
